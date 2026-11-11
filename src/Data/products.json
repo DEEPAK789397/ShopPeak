@@ -1,0 +1,2905 @@
+{
+    "total": 170,
+    "categories": [
+        "Mobiles",
+        "Fashion",
+        "Electronics",
+        "Watches",
+        "Gaming",
+        "Beauty",
+        "Handbags",
+        "Sports & Fitness"
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Nova X Pro 5G",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "PixelEdge",
+            "description": "Nova X Pro 5G designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 78140,
+            "discountPercentage": 18,
+            "rating": 4.9,
+            "stock": 33,
+            "thumbnail": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "PixelEdge 9",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "Nothing",
+            "description": "PixelEdge 9 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 8680,
+            "discountPercentage": 20,
+            "rating": 4.1,
+            "stock": 114,
+            "thumbnail": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Galaxy Ultra 5G",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "PixelEdge",
+            "description": "Galaxy Ultra 5G designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 22730,
+            "discountPercentage": 15,
+            "rating": 4.3,
+            "stock": 17,
+            "thumbnail": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "OnePlus Nord Max",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "NovaTech",
+            "description": "OnePlus Nord Max designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 73640,
+            "discountPercentage": 25,
+            "rating": 4.7,
+            "stock": 102,
+            "thumbnail": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "iPhone Pro Max",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "Motorola",
+            "description": "iPhone Pro Max designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 79210,
+            "discountPercentage": 20,
+            "rating": 3.8,
+            "stock": 112,
+            "thumbnail": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Zenith Fold 5G",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "Samsung",
+            "description": "Zenith Fold 5G designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 31020,
+            "discountPercentage": 20,
+            "rating": 4.5,
+            "stock": 37,
+            "thumbnail": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Redmi Note Pro",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "NovaTech",
+            "description": "Redmi Note Pro designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 12660,
+            "discountPercentage": 25,
+            "rating": 4.6,
+            "stock": 103,
+            "thumbnail": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Nothing Phone Plus",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "Samsung",
+            "description": "Nothing Phone Plus designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 93280,
+            "discountPercentage": 10,
+            "rating": 4.0,
+            "stock": 98,
+            "thumbnail": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Moto Fusion 5G",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "NovaTech",
+            "description": "Moto Fusion 5G designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 32470,
+            "discountPercentage": 5,
+            "rating": 4.0,
+            "stock": 91,
+            "thumbnail": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Realme GT Neo",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "Nothing",
+            "description": "Realme GT Neo designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 54740,
+            "discountPercentage": 12,
+            "rating": 4.2,
+            "stock": 81,
+            "thumbnail": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "MagSafe Wireless Charger",
+            "mainCategory": "Mobiles",
+            "category": "mobile-accessories",
+            "brand": "Xiaomi",
+            "description": "MagSafe Wireless Charger designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 8640,
+            "discountPercentage": 30,
+            "rating": 4.8,
+            "stock": 67,
+            "thumbnail": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "65W Fast Charging Adapter",
+            "mainCategory": "Mobiles",
+            "category": "mobile-accessories",
+            "brand": "Motorola",
+            "description": "65W Fast Charging Adapter designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 2410,
+            "discountPercentage": 12,
+            "rating": 4.7,
+            "stock": 30,
+            "thumbnail": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Braided USB-C Cable",
+            "mainCategory": "Mobiles",
+            "category": "mobile-accessories",
+            "brand": "OnePlus",
+            "description": "Braided USB-C Cable designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 43460,
+            "discountPercentage": 5,
+            "rating": 4.4,
+            "stock": 29,
+            "thumbnail": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Clear Shockproof Phone Case",
+            "mainCategory": "Mobiles",
+            "category": "mobile-accessories",
+            "brand": "Xiaomi",
+            "description": "Clear Shockproof Phone Case designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 91940,
+            "discountPercentage": 30,
+            "rating": 4.4,
+            "stock": 50,
+            "thumbnail": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Tempered Glass Screen Guard",
+            "mainCategory": "Mobiles",
+            "category": "mobile-accessories",
+            "brand": "Apple",
+            "description": "Tempered Glass Screen Guard designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 91860,
+            "discountPercentage": 25,
+            "rating": 4.2,
+            "stock": 22,
+            "thumbnail": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Wireless Power Bank",
+            "mainCategory": "Mobiles",
+            "category": "mobile-accessories",
+            "brand": "Apple",
+            "description": "Wireless Power Bank designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 31190,
+            "discountPercentage": 10,
+            "rating": 4.1,
+            "stock": 67,
+            "thumbnail": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Compact Phone Stand",
+            "mainCategory": "Mobiles",
+            "category": "mobile-accessories",
+            "brand": "Motorola",
+            "description": "Compact Phone Stand designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 62020,
+            "discountPercentage": 5,
+            "rating": 4.8,
+            "stock": 35,
+            "thumbnail": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Bluetooth Selfie Stick",
+            "mainCategory": "Mobiles",
+            "category": "mobile-accessories",
+            "brand": "Xiaomi",
+            "description": "Bluetooth Selfie Stick designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 66910,
+            "discountPercentage": 10,
+            "rating": 3.8,
+            "stock": 15,
+            "thumbnail": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 19,
+            "title": "Nova X Pro 5G Plus 2",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "PixelEdge",
+            "description": "Nova X Pro 5G Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 95840,
+            "discountPercentage": 18,
+            "rating": 4.6,
+            "stock": 117,
+            "thumbnail": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 20,
+            "title": "PixelEdge 9 Plus 2",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "NovaTech",
+            "description": "PixelEdge 9 Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 4720,
+            "discountPercentage": 25,
+            "rating": 4.3,
+            "stock": 66,
+            "thumbnail": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 21,
+            "title": "Galaxy Ultra 5G Plus 2",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "OnePlus",
+            "description": "Galaxy Ultra 5G Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 22420,
+            "discountPercentage": 20,
+            "rating": 4.6,
+            "stock": 87,
+            "thumbnail": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 22,
+            "title": "OnePlus Nord Max Plus 2",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "Xiaomi",
+            "description": "OnePlus Nord Max Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 27920,
+            "discountPercentage": 15,
+            "rating": 4.9,
+            "stock": 103,
+            "thumbnail": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 23,
+            "title": "iPhone Pro Max Plus 2",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "Samsung",
+            "description": "iPhone Pro Max Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 99870,
+            "discountPercentage": 10,
+            "rating": 4.2,
+            "stock": 13,
+            "thumbnail": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 24,
+            "title": "Zenith Fold 5G Plus 2",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "Motorola",
+            "description": "Zenith Fold 5G Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 8350,
+            "discountPercentage": 10,
+            "rating": 4.1,
+            "stock": 25,
+            "thumbnail": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 25,
+            "title": "Redmi Note Pro Plus 2",
+            "mainCategory": "Mobiles",
+            "category": "smartphones",
+            "brand": "Xiaomi",
+            "description": "Redmi Note Pro Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 72940,
+            "discountPercentage": 30,
+            "rating": 3.9,
+            "stock": 84,
+            "thumbnail": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 26,
+            "title": "Classic Oxford Shirt",
+            "mainCategory": "Fashion",
+            "category": "mens-shirts",
+            "brand": "Mode Studio",
+            "description": "Classic Oxford Shirt designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 5210,
+            "discountPercentage": 5,
+            "rating": 4.5,
+            "stock": 28,
+            "thumbnail": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 27,
+            "title": "Relaxed Fit Linen Shirt",
+            "mainCategory": "Fashion",
+            "category": "mens-shirts",
+            "brand": "Mode Studio",
+            "description": "Relaxed Fit Linen Shirt designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3440,
+            "discountPercentage": 15,
+            "rating": 4.7,
+            "stock": 63,
+            "thumbnail": "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 28,
+            "title": "Premium Oversized Tee",
+            "mainCategory": "Fashion",
+            "category": "mens-shirts",
+            "brand": "StreetTheory",
+            "description": "Premium Oversized Tee designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 4190,
+            "discountPercentage": 12,
+            "rating": 4.6,
+            "stock": 50,
+            "thumbnail": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 29,
+            "title": "Minimal Graphic T-Shirt",
+            "mainCategory": "Fashion",
+            "category": "mens-shirts",
+            "brand": "StreetTheory",
+            "description": "Minimal Graphic T-Shirt designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 4300,
+            "discountPercentage": 15,
+            "rating": 3.9,
+            "stock": 85,
+            "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 30,
+            "title": "Textured Casual Shirt",
+            "mainCategory": "Fashion",
+            "category": "mens-shirts",
+            "brand": "Mode Studio",
+            "description": "Textured Casual Shirt designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3840,
+            "discountPercentage": 10,
+            "rating": 4.1,
+            "stock": 48,
+            "thumbnail": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 31,
+            "title": "Everyday Polo Shirt",
+            "mainCategory": "Fashion",
+            "category": "mens-shirts",
+            "brand": "Mode Studio",
+            "description": "Everyday Polo Shirt designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 740,
+            "discountPercentage": 10,
+            "rating": 4.2,
+            "stock": 19,
+            "thumbnail": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 32,
+            "title": "Urban Street Sneakers",
+            "mainCategory": "Fashion",
+            "category": "mens-shoes",
+            "brand": "Loom & Co.",
+            "description": "Urban Street Sneakers designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 5560,
+            "discountPercentage": 12,
+            "rating": 4.6,
+            "stock": 102,
+            "thumbnail": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 33,
+            "title": "Classic White Trainers",
+            "mainCategory": "Fashion",
+            "category": "mens-shoes",
+            "brand": "StreetTheory",
+            "description": "Classic White Trainers designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 5760,
+            "discountPercentage": 12,
+            "rating": 4.8,
+            "stock": 14,
+            "thumbnail": "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 34,
+            "title": "Lightweight Running Shoes",
+            "mainCategory": "Fashion",
+            "category": "mens-shoes",
+            "brand": "Mode Studio",
+            "description": "Lightweight Running Shoes designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3790,
+            "discountPercentage": 30,
+            "rating": 4.5,
+            "stock": 36,
+            "thumbnail": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 35,
+            "title": "Retro Court Sneakers",
+            "mainCategory": "Fashion",
+            "category": "mens-shoes",
+            "brand": "StreetTheory",
+            "description": "Retro Court Sneakers designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 5610,
+            "discountPercentage": 15,
+            "rating": 3.9,
+            "stock": 84,
+            "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 36,
+            "title": "Floral Midi Dress",
+            "mainCategory": "Fashion",
+            "category": "womens-dresses",
+            "brand": "StreetTheory",
+            "description": "Floral Midi Dress designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 5920,
+            "discountPercentage": 30,
+            "rating": 4.2,
+            "stock": 89,
+            "thumbnail": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 37,
+            "title": "Satin Evening Dress",
+            "mainCategory": "Fashion",
+            "category": "womens-dresses",
+            "brand": "Northline",
+            "description": "Satin Evening Dress designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 1650,
+            "discountPercentage": 15,
+            "rating": 4.0,
+            "stock": 52,
+            "thumbnail": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 38,
+            "title": "Everyday Ribbed Dress",
+            "mainCategory": "Fashion",
+            "category": "womens-dresses",
+            "brand": "DailyForm",
+            "description": "Everyday Ribbed Dress designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3370,
+            "discountPercentage": 20,
+            "rating": 4.8,
+            "stock": 56,
+            "thumbnail": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 39,
+            "title": "Modern Wrap Dress",
+            "mainCategory": "Fashion",
+            "category": "womens-dresses",
+            "brand": "Loom & Co.",
+            "description": "Modern Wrap Dress designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 2360,
+            "discountPercentage": 15,
+            "rating": 4.5,
+            "stock": 82,
+            "thumbnail": "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 40,
+            "title": "Relaxed Summer Dress",
+            "mainCategory": "Fashion",
+            "category": "womens-dresses",
+            "brand": "DailyForm",
+            "description": "Relaxed Summer Dress designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 5290,
+            "discountPercentage": 12,
+            "rating": 3.9,
+            "stock": 85,
+            "thumbnail": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 41,
+            "title": "Minimal White Sneakers",
+            "mainCategory": "Fashion",
+            "category": "womens-shoes",
+            "brand": "Northline",
+            "description": "Minimal White Sneakers designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3490,
+            "discountPercentage": 30,
+            "rating": 3.9,
+            "stock": 103,
+            "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 42,
+            "title": "Everyday Comfort Flats",
+            "mainCategory": "Fashion",
+            "category": "womens-shoes",
+            "brand": "Mode Studio",
+            "description": "Everyday Comfort Flats designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 2190,
+            "discountPercentage": 30,
+            "rating": 4.8,
+            "stock": 97,
+            "thumbnail": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 43,
+            "title": "Classic Block Heels",
+            "mainCategory": "Fashion",
+            "category": "womens-shoes",
+            "brand": "UrbanThread",
+            "description": "Classic Block Heels designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 4450,
+            "discountPercentage": 25,
+            "rating": 4.7,
+            "stock": 87,
+            "thumbnail": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 44,
+            "title": "Sporty Casual Shoes",
+            "mainCategory": "Fashion",
+            "category": "womens-shoes",
+            "brand": "DailyForm",
+            "description": "Sporty Casual Shoes designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3250,
+            "discountPercentage": 20,
+            "rating": 4.6,
+            "stock": 46,
+            "thumbnail": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 45,
+            "title": "Ribbed Crop Top",
+            "mainCategory": "Fashion",
+            "category": "tops",
+            "brand": "StreetTheory",
+            "description": "Ribbed Crop Top designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 1530,
+            "discountPercentage": 15,
+            "rating": 4.9,
+            "stock": 101,
+            "thumbnail": "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 46,
+            "title": "Relaxed Fit Sweatshirt",
+            "mainCategory": "Fashion",
+            "category": "tops",
+            "brand": "UrbanThread",
+            "description": "Relaxed Fit Sweatshirt designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3560,
+            "discountPercentage": 15,
+            "rating": 4.0,
+            "stock": 52,
+            "thumbnail": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 47,
+            "title": "Premium Basic Top",
+            "mainCategory": "Fashion",
+            "category": "tops",
+            "brand": "DailyForm",
+            "description": "Premium Basic Top designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 2190,
+            "discountPercentage": 18,
+            "rating": 4.5,
+            "stock": 105,
+            "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 48,
+            "title": "Oversized Hoodie",
+            "mainCategory": "Fashion",
+            "category": "tops",
+            "brand": "Northline",
+            "description": "Oversized Hoodie designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3190,
+            "discountPercentage": 25,
+            "rating": 4.1,
+            "stock": 114,
+            "thumbnail": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 49,
+            "title": "Soft Knit Pullover",
+            "mainCategory": "Fashion",
+            "category": "tops",
+            "brand": "UrbanThread",
+            "description": "Soft Knit Pullover designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 1100,
+            "discountPercentage": 30,
+            "rating": 4.4,
+            "stock": 105,
+            "thumbnail": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 50,
+            "title": "Classic Oxford Shirt Plus 2",
+            "mainCategory": "Fashion",
+            "category": "mens-shirts",
+            "brand": "UrbanThread",
+            "description": "Classic Oxford Shirt Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 2950,
+            "discountPercentage": 15,
+            "rating": 4.7,
+            "stock": 20,
+            "thumbnail": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 51,
+            "title": "Relaxed Fit Linen Shirt Plus 2",
+            "mainCategory": "Fashion",
+            "category": "mens-shirts",
+            "brand": "Loom & Co.",
+            "description": "Relaxed Fit Linen Shirt Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 1340,
+            "discountPercentage": 15,
+            "rating": 4.1,
+            "stock": 109,
+            "thumbnail": "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 52,
+            "title": "Premium Oversized Tee Plus 2",
+            "mainCategory": "Fashion",
+            "category": "mens-shirts",
+            "brand": "Mode Studio",
+            "description": "Premium Oversized Tee Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3610,
+            "discountPercentage": 25,
+            "rating": 4.9,
+            "stock": 41,
+            "thumbnail": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 53,
+            "title": "Minimal Graphic T-Shirt Plus 2",
+            "mainCategory": "Fashion",
+            "category": "mens-shirts",
+            "brand": "DailyForm",
+            "description": "Minimal Graphic T-Shirt Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3440,
+            "discountPercentage": 12,
+            "rating": 4.5,
+            "stock": 104,
+            "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 54,
+            "title": "Textured Casual Shirt Plus 2",
+            "mainCategory": "Fashion",
+            "category": "mens-shirts",
+            "brand": "StreetTheory",
+            "description": "Textured Casual Shirt Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 5810,
+            "discountPercentage": 10,
+            "rating": 3.9,
+            "stock": 39,
+            "thumbnail": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 55,
+            "title": "Everyday Polo Shirt Plus 2",
+            "mainCategory": "Fashion",
+            "category": "mens-shirts",
+            "brand": "UrbanThread",
+            "description": "Everyday Polo Shirt Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 5420,
+            "discountPercentage": 12,
+            "rating": 3.9,
+            "stock": 104,
+            "thumbnail": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 56,
+            "title": "CreatorBook 14 Laptop",
+            "mainCategory": "Electronics",
+            "category": "laptops",
+            "brand": "HP",
+            "description": "CreatorBook 14 Laptop designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 111540,
+            "discountPercentage": 5,
+            "rating": 4.7,
+            "stock": 40,
+            "thumbnail": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 57,
+            "title": "UltraSlim Pro Laptop",
+            "mainCategory": "Electronics",
+            "category": "laptops",
+            "brand": "Auralab",
+            "description": "UltraSlim Pro Laptop designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 51440,
+            "discountPercentage": 5,
+            "rating": 4.3,
+            "stock": 18,
+            "thumbnail": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 58,
+            "title": "Performance Studio Laptop",
+            "mainCategory": "Electronics",
+            "category": "laptops",
+            "brand": "SoundCore",
+            "description": "Performance Studio Laptop designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 56520,
+            "discountPercentage": 10,
+            "rating": 3.9,
+            "stock": 114,
+            "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 59,
+            "title": "Everyday Air Laptop",
+            "mainCategory": "Electronics",
+            "category": "laptops",
+            "brand": "Auralab",
+            "description": "Everyday Air Laptop designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 27120,
+            "discountPercentage": 18,
+            "rating": 4.3,
+            "stock": 90,
+            "thumbnail": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 60,
+            "title": "Gaming Performance Laptop",
+            "mainCategory": "Electronics",
+            "category": "laptops",
+            "brand": "ASUS",
+            "description": "Gaming Performance Laptop designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 56350,
+            "discountPercentage": 10,
+            "rating": 4.3,
+            "stock": 27,
+            "thumbnail": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 61,
+            "title": "Tab Pro 11",
+            "mainCategory": "Electronics",
+            "category": "tablets",
+            "brand": "ASUS",
+            "description": "Tab Pro 11 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 70190,
+            "discountPercentage": 18,
+            "rating": 4.6,
+            "stock": 33,
+            "thumbnail": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 62,
+            "title": "Tab Air 10",
+            "mainCategory": "Electronics",
+            "category": "tablets",
+            "brand": "SoundCore",
+            "description": "Tab Air 10 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 39430,
+            "discountPercentage": 25,
+            "rating": 4.4,
+            "stock": 76,
+            "thumbnail": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 63,
+            "title": "Creative Pad 12",
+            "mainCategory": "Electronics",
+            "category": "tablets",
+            "brand": "Lenovo",
+            "description": "Creative Pad 12 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 10520,
+            "discountPercentage": 25,
+            "rating": 4.2,
+            "stock": 89,
+            "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 64,
+            "title": "Compact Study Tablet",
+            "mainCategory": "Electronics",
+            "category": "tablets",
+            "brand": "TechNova",
+            "description": "Compact Study Tablet designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 147670,
+            "discountPercentage": 25,
+            "rating": 4.3,
+            "stock": 28,
+            "thumbnail": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 65,
+            "title": "Studio Wireless Headphones",
+            "mainCategory": "Electronics",
+            "category": "audio-accessories",
+            "brand": "SoundCore",
+            "description": "Studio Wireless Headphones designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 19180,
+            "discountPercentage": 25,
+            "rating": 4.7,
+            "stock": 106,
+            "thumbnail": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 66,
+            "title": "Noise-Cancelling Earbuds",
+            "mainCategory": "Electronics",
+            "category": "audio-accessories",
+            "brand": "Lenovo",
+            "description": "Noise-Cancelling Earbuds designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 134710,
+            "discountPercentage": 30,
+            "rating": 4.8,
+            "stock": 100,
+            "thumbnail": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 67,
+            "title": "Portable Bluetooth Speaker",
+            "mainCategory": "Electronics",
+            "category": "audio-accessories",
+            "brand": "TechNova",
+            "description": "Portable Bluetooth Speaker designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 50310,
+            "discountPercentage": 12,
+            "rating": 4.1,
+            "stock": 19,
+            "thumbnail": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 68,
+            "title": "USB-C Audio Adapter",
+            "mainCategory": "Electronics",
+            "category": "audio-accessories",
+            "brand": "Auralab",
+            "description": "USB-C Audio Adapter designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 136160,
+            "discountPercentage": 10,
+            "rating": 4.3,
+            "stock": 61,
+            "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 69,
+            "title": "Mechanical RGB Keyboard",
+            "mainCategory": "Electronics",
+            "category": "computer-accessories",
+            "brand": "SoundCore",
+            "description": "Mechanical RGB Keyboard designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 137350,
+            "discountPercentage": 5,
+            "rating": 4.9,
+            "stock": 9,
+            "thumbnail": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 70,
+            "title": "Wireless Precision Mouse",
+            "mainCategory": "Electronics",
+            "category": "computer-accessories",
+            "brand": "Acer",
+            "description": "Wireless Precision Mouse designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 38750,
+            "discountPercentage": 30,
+            "rating": 4.8,
+            "stock": 10,
+            "thumbnail": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 71,
+            "title": "USB-C Multiport Hub",
+            "mainCategory": "Electronics",
+            "category": "computer-accessories",
+            "brand": "HP",
+            "description": "USB-C Multiport Hub designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 100980,
+            "discountPercentage": 30,
+            "rating": 4.8,
+            "stock": 118,
+            "thumbnail": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 72,
+            "title": "1080p Webcam",
+            "mainCategory": "Electronics",
+            "category": "computer-accessories",
+            "brand": "Lenovo",
+            "description": "1080p Webcam designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 82600,
+            "discountPercentage": 25,
+            "rating": 4.4,
+            "stock": 80,
+            "thumbnail": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 73,
+            "title": "Adjustable Laptop Stand",
+            "mainCategory": "Electronics",
+            "category": "computer-accessories",
+            "brand": "Acer",
+            "description": "Adjustable Laptop Stand designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 49110,
+            "discountPercentage": 20,
+            "rating": 4.4,
+            "stock": 8,
+            "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 74,
+            "title": "CreatorBook 14 Laptop Plus 2",
+            "mainCategory": "Electronics",
+            "category": "laptops",
+            "brand": "Lenovo",
+            "description": "CreatorBook 14 Laptop Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 2550,
+            "discountPercentage": 30,
+            "rating": 3.8,
+            "stock": 29,
+            "thumbnail": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 75,
+            "title": "UltraSlim Pro Laptop Plus 2",
+            "mainCategory": "Electronics",
+            "category": "laptops",
+            "brand": "Acer",
+            "description": "UltraSlim Pro Laptop Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 9360,
+            "discountPercentage": 25,
+            "rating": 4.7,
+            "stock": 13,
+            "thumbnail": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 76,
+            "title": "Performance Studio Laptop Plus 2",
+            "mainCategory": "Electronics",
+            "category": "laptops",
+            "brand": "HP",
+            "description": "Performance Studio Laptop Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 28820,
+            "discountPercentage": 12,
+            "rating": 3.9,
+            "stock": 98,
+            "thumbnail": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 77,
+            "title": "Everyday Air Laptop Plus 2",
+            "mainCategory": "Electronics",
+            "category": "laptops",
+            "brand": "HP",
+            "description": "Everyday Air Laptop Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 29600,
+            "discountPercentage": 30,
+            "rating": 4.9,
+            "stock": 64,
+            "thumbnail": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 78,
+            "title": "Gaming Performance Laptop Plus 2",
+            "mainCategory": "Electronics",
+            "category": "laptops",
+            "brand": "HP",
+            "description": "Gaming Performance Laptop Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 29500,
+            "discountPercentage": 25,
+            "rating": 4.0,
+            "stock": 103,
+            "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 79,
+            "title": "Tab Pro 11 Plus 2",
+            "mainCategory": "Electronics",
+            "category": "tablets",
+            "brand": "HP",
+            "description": "Tab Pro 11 Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 108170,
+            "discountPercentage": 18,
+            "rating": 4.1,
+            "stock": 47,
+            "thumbnail": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 80,
+            "title": "Tab Air 10 Plus 2",
+            "mainCategory": "Electronics",
+            "category": "tablets",
+            "brand": "HP",
+            "description": "Tab Air 10 Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 93970,
+            "discountPercentage": 25,
+            "rating": 3.9,
+            "stock": 56,
+            "thumbnail": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 81,
+            "title": "Chrono Steel Watch",
+            "mainCategory": "Watches",
+            "category": "mens-watches",
+            "brand": "Aurum",
+            "description": "Chrono Steel Watch designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 15230,
+            "discountPercentage": 15,
+            "rating": 3.9,
+            "stock": 43,
+            "thumbnail": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 82,
+            "title": "Minimal Black Dial Watch",
+            "mainCategory": "Watches",
+            "category": "mens-watches",
+            "brand": "TimeCraft",
+            "description": "Minimal Black Dial Watch designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 13890,
+            "discountPercentage": 12,
+            "rating": 4.6,
+            "stock": 22,
+            "thumbnail": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 83,
+            "title": "Classic Leather Strap Watch",
+            "mainCategory": "Watches",
+            "category": "mens-watches",
+            "brand": "Casio",
+            "description": "Classic Leather Strap Watch designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 9980,
+            "discountPercentage": 25,
+            "rating": 4.4,
+            "stock": 69,
+            "thumbnail": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1509927083803-4bd7f4b8e4d4?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 84,
+            "title": "Sport Active Watch",
+            "mainCategory": "Watches",
+            "category": "mens-watches",
+            "brand": "Aurum",
+            "description": "Sport Active Watch designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 6520,
+            "discountPercentage": 12,
+            "rating": 4.5,
+            "stock": 16,
+            "thumbnail": "https://images.unsplash.com/photo-1509927083803-4bd7f4b8e4d4?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1509927083803-4bd7f4b8e4d4?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 85,
+            "title": "Silver Mesh Watch",
+            "mainCategory": "Watches",
+            "category": "mens-watches",
+            "brand": "Aurum",
+            "description": "Silver Mesh Watch designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 12260,
+            "discountPercentage": 18,
+            "rating": 4.3,
+            "stock": 71,
+            "thumbnail": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 86,
+            "title": "Rose Gold Minimal Watch",
+            "mainCategory": "Watches",
+            "category": "womens-watches",
+            "brand": "Nordgreen",
+            "description": "Rose Gold Minimal Watch designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 17370,
+            "discountPercentage": 5,
+            "rating": 4.7,
+            "stock": 12,
+            "thumbnail": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 87,
+            "title": "Petite Gold Dial Watch",
+            "mainCategory": "Watches",
+            "category": "womens-watches",
+            "brand": "Aurum",
+            "description": "Petite Gold Dial Watch designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 19500,
+            "discountPercentage": 30,
+            "rating": 4.8,
+            "stock": 102,
+            "thumbnail": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1509927083803-4bd7f4b8e4d4?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 88,
+            "title": "Elegant Mesh Bracelet Watch",
+            "mainCategory": "Watches",
+            "category": "womens-watches",
+            "brand": "Aurum",
+            "description": "Elegant Mesh Bracelet Watch designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 20270,
+            "discountPercentage": 5,
+            "rating": 4.3,
+            "stock": 106,
+            "thumbnail": "https://images.unsplash.com/photo-1509927083803-4bd7f4b8e4d4?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1509927083803-4bd7f4b8e4d4?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 89,
+            "title": "Modern Square Dial Watch",
+            "mainCategory": "Watches",
+            "category": "womens-watches",
+            "brand": "Casio",
+            "description": "Modern Square Dial Watch designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 7290,
+            "discountPercentage": 12,
+            "rating": 4.1,
+            "stock": 100,
+            "thumbnail": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 90,
+            "title": "Classic Pearl Accent Watch",
+            "mainCategory": "Watches",
+            "category": "womens-watches",
+            "brand": "Casio",
+            "description": "Classic Pearl Accent Watch designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 24110,
+            "discountPercentage": 30,
+            "rating": 4.5,
+            "stock": 95,
+            "thumbnail": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 91,
+            "title": "Chrono Steel Watch Plus 2",
+            "mainCategory": "Watches",
+            "category": "mens-watches",
+            "brand": "Casio",
+            "description": "Chrono Steel Watch Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 11360,
+            "discountPercentage": 10,
+            "rating": 4.3,
+            "stock": 39,
+            "thumbnail": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1509927083803-4bd7f4b8e4d4?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 92,
+            "title": "Minimal Black Dial Watch Plus 2",
+            "mainCategory": "Watches",
+            "category": "mens-watches",
+            "brand": "Nordgreen",
+            "description": "Minimal Black Dial Watch Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 21580,
+            "discountPercentage": 25,
+            "rating": 4.0,
+            "stock": 13,
+            "thumbnail": "https://images.unsplash.com/photo-1509927083803-4bd7f4b8e4d4?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1509927083803-4bd7f4b8e4d4?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 93,
+            "title": "Classic Leather Strap Watch Plus 2",
+            "mainCategory": "Watches",
+            "category": "mens-watches",
+            "brand": "TimeCraft",
+            "description": "Classic Leather Strap Watch Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 21050,
+            "discountPercentage": 25,
+            "rating": 4.4,
+            "stock": 97,
+            "thumbnail": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 94,
+            "title": "Sport Active Watch Plus 2",
+            "mainCategory": "Watches",
+            "category": "mens-watches",
+            "brand": "Titan",
+            "description": "Sport Active Watch Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 20180,
+            "discountPercentage": 18,
+            "rating": 4.4,
+            "stock": 88,
+            "thumbnail": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 95,
+            "title": "Silver Mesh Watch Plus 2",
+            "mainCategory": "Watches",
+            "category": "mens-watches",
+            "brand": "Aurum",
+            "description": "Silver Mesh Watch Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 15540,
+            "discountPercentage": 20,
+            "rating": 4.1,
+            "stock": 61,
+            "thumbnail": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1509927083803-4bd7f4b8e4d4?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 96,
+            "title": "Rose Gold Minimal Watch Plus 2",
+            "mainCategory": "Watches",
+            "category": "womens-watches",
+            "brand": "Casio",
+            "description": "Rose Gold Minimal Watch Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 22270,
+            "discountPercentage": 20,
+            "rating": 4.0,
+            "stock": 35,
+            "thumbnail": "https://images.unsplash.com/photo-1509927083803-4bd7f4b8e4d4?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1509927083803-4bd7f4b8e4d4?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 97,
+            "title": "Petite Gold Dial Watch Plus 2",
+            "mainCategory": "Watches",
+            "category": "womens-watches",
+            "brand": "TimeCraft",
+            "description": "Petite Gold Dial Watch Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 5080,
+            "discountPercentage": 30,
+            "rating": 3.9,
+            "stock": 111,
+            "thumbnail": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 98,
+            "title": "Elegant Mesh Bracelet Watch Plus 2",
+            "mainCategory": "Watches",
+            "category": "womens-watches",
+            "brand": "Casio",
+            "description": "Elegant Mesh Bracelet Watch Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 19010,
+            "discountPercentage": 30,
+            "rating": 4.7,
+            "stock": 15,
+            "thumbnail": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 99,
+            "title": "Modern Square Dial Watch Plus 2",
+            "mainCategory": "Watches",
+            "category": "womens-watches",
+            "brand": "TimeCraft",
+            "description": "Modern Square Dial Watch Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 23090,
+            "discountPercentage": 12,
+            "rating": 3.9,
+            "stock": 62,
+            "thumbnail": "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1509927083803-4bd7f4b8e4d4?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 100,
+            "title": "Classic Pearl Accent Watch Plus 2",
+            "mainCategory": "Watches",
+            "category": "womens-watches",
+            "brand": "Nordgreen",
+            "description": "Classic Pearl Accent Watch Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 19460,
+            "discountPercentage": 15,
+            "rating": 4.3,
+            "stock": 57,
+            "thumbnail": "https://images.unsplash.com/photo-1509927083803-4bd7f4b8e4d4?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1509927083803-4bd7f4b8e4d4?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 101,
+            "title": "Wireless Gaming Controller",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "SteelSeries",
+            "description": "Wireless Gaming Controller designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 24060,
+            "discountPercentage": 5,
+            "rating": 4.6,
+            "stock": 74,
+            "thumbnail": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 102,
+            "title": "RGB Mechanical Gaming Keyboard",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "Pulse",
+            "description": "RGB Mechanical Gaming Keyboard designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 41140,
+            "discountPercentage": 18,
+            "rating": 4.5,
+            "stock": 99,
+            "thumbnail": "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1603481546238-487240415921?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 103,
+            "title": "Precision Gaming Mouse",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "Pulse",
+            "description": "Precision Gaming Mouse designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 37820,
+            "discountPercentage": 25,
+            "rating": 3.8,
+            "stock": 44,
+            "thumbnail": "https://images.unsplash.com/photo-1603481546238-487240415921?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1603481546238-487240415921?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 104,
+            "title": "Gaming Headset with Mic",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "Logitech G",
+            "description": "Gaming Headset with Mic designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 38040,
+            "discountPercentage": 15,
+            "rating": 4.7,
+            "stock": 37,
+            "thumbnail": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 105,
+            "title": "Extended Gaming Mouse Pad",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "HyperPlay",
+            "description": "Extended Gaming Mouse Pad designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 6360,
+            "discountPercentage": 30,
+            "rating": 4.6,
+            "stock": 50,
+            "thumbnail": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 106,
+            "title": "Controller Charging Dock",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "Razer",
+            "description": "Controller Charging Dock designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 6500,
+            "discountPercentage": 30,
+            "rating": 4.3,
+            "stock": 110,
+            "thumbnail": "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1603481546238-487240415921?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 107,
+            "title": "USB Streaming Microphone",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "Razer",
+            "description": "USB Streaming Microphone designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 7400,
+            "discountPercentage": 15,
+            "rating": 3.8,
+            "stock": 84,
+            "thumbnail": "https://images.unsplash.com/photo-1603481546238-487240415921?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1603481546238-487240415921?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 108,
+            "title": "Ergonomic Gaming Chair",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "HyperPlay",
+            "description": "Ergonomic Gaming Chair designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 38520,
+            "discountPercentage": 12,
+            "rating": 4.0,
+            "stock": 18,
+            "thumbnail": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 109,
+            "title": "Next-Gen Game Console",
+            "mainCategory": "Gaming",
+            "category": "gaming-consoles",
+            "brand": "Pulse",
+            "description": "Next-Gen Game Console designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3950,
+            "discountPercentage": 12,
+            "rating": 3.9,
+            "stock": 31,
+            "thumbnail": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 110,
+            "title": "Portable Gaming Console",
+            "mainCategory": "Gaming",
+            "category": "gaming-consoles",
+            "brand": "GameCore",
+            "description": "Portable Gaming Console designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 33340,
+            "discountPercentage": 12,
+            "rating": 4.4,
+            "stock": 46,
+            "thumbnail": "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1603481546238-487240415921?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 111,
+            "title": "Digital Edition Console",
+            "mainCategory": "Gaming",
+            "category": "gaming-consoles",
+            "brand": "HyperPlay",
+            "description": "Digital Edition Console designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3230,
+            "discountPercentage": 10,
+            "rating": 4.0,
+            "stock": 21,
+            "thumbnail": "https://images.unsplash.com/photo-1603481546238-487240415921?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1603481546238-487240415921?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 112,
+            "title": "Handheld Gaming Device",
+            "mainCategory": "Gaming",
+            "category": "gaming-consoles",
+            "brand": "Logitech G",
+            "description": "Handheld Gaming Device designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 44790,
+            "discountPercentage": 12,
+            "rating": 4.9,
+            "stock": 12,
+            "thumbnail": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 113,
+            "title": "Wireless Gaming Controller Plus 2",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "Pulse",
+            "description": "Wireless Gaming Controller Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 2130,
+            "discountPercentage": 10,
+            "rating": 4.7,
+            "stock": 49,
+            "thumbnail": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 114,
+            "title": "RGB Mechanical Gaming Keyboard Plus 2",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "Logitech G",
+            "description": "RGB Mechanical Gaming Keyboard Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 15140,
+            "discountPercentage": 25,
+            "rating": 4.2,
+            "stock": 69,
+            "thumbnail": "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1603481546238-487240415921?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 115,
+            "title": "Precision Gaming Mouse Plus 2",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "SteelSeries",
+            "description": "Precision Gaming Mouse Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 21350,
+            "discountPercentage": 18,
+            "rating": 4.8,
+            "stock": 88,
+            "thumbnail": "https://images.unsplash.com/photo-1603481546238-487240415921?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1603481546238-487240415921?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 116,
+            "title": "Gaming Headset with Mic Plus 2",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "Pulse",
+            "description": "Gaming Headset with Mic Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 47990,
+            "discountPercentage": 25,
+            "rating": 4.5,
+            "stock": 100,
+            "thumbnail": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 117,
+            "title": "Extended Gaming Mouse Pad Plus 2",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "GameCore",
+            "description": "Extended Gaming Mouse Pad Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3520,
+            "discountPercentage": 5,
+            "rating": 4.3,
+            "stock": 38,
+            "thumbnail": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 118,
+            "title": "Controller Charging Dock Plus 2",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "SteelSeries",
+            "description": "Controller Charging Dock Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 42960,
+            "discountPercentage": 12,
+            "rating": 4.0,
+            "stock": 22,
+            "thumbnail": "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1603481546238-487240415921?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 119,
+            "title": "USB Streaming Microphone Plus 2",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "Logitech G",
+            "description": "USB Streaming Microphone Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 35120,
+            "discountPercentage": 12,
+            "rating": 4.6,
+            "stock": 16,
+            "thumbnail": "https://images.unsplash.com/photo-1603481546238-487240415921?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1603481546238-487240415921?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 120,
+            "title": "Ergonomic Gaming Chair Plus 2",
+            "mainCategory": "Gaming",
+            "category": "gaming-accessories",
+            "brand": "SteelSeries",
+            "description": "Ergonomic Gaming Chair Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 38350,
+            "discountPercentage": 20,
+            "rating": 4.8,
+            "stock": 108,
+            "thumbnail": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 121,
+            "title": "Hydrating Daily Moisturizer",
+            "mainCategory": "Beauty",
+            "category": "skin-care",
+            "brand": "The Skin Edit",
+            "description": "Hydrating Daily Moisturizer designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 4820,
+            "discountPercentage": 10,
+            "rating": 4.4,
+            "stock": 65,
+            "thumbnail": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 122,
+            "title": "Vitamin C Glow Serum",
+            "mainCategory": "Beauty",
+            "category": "skin-care",
+            "brand": "BareBloom",
+            "description": "Vitamin C Glow Serum designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 2700,
+            "discountPercentage": 30,
+            "rating": 4.1,
+            "stock": 108,
+            "thumbnail": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 123,
+            "title": "Gentle Foaming Cleanser",
+            "mainCategory": "Beauty",
+            "category": "skin-care",
+            "brand": "BareBloom",
+            "description": "Gentle Foaming Cleanser designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3420,
+            "discountPercentage": 15,
+            "rating": 4.9,
+            "stock": 39,
+            "thumbnail": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 124,
+            "title": "SPF 50 Daily Sunscreen",
+            "mainCategory": "Beauty",
+            "category": "skin-care",
+            "brand": "BareBloom",
+            "description": "SPF 50 Daily Sunscreen designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 4790,
+            "discountPercentage": 15,
+            "rating": 4.9,
+            "stock": 72,
+            "thumbnail": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 125,
+            "title": "Overnight Repair Cream",
+            "mainCategory": "Beauty",
+            "category": "skin-care",
+            "brand": "BareBloom",
+            "description": "Overnight Repair Cream designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 940,
+            "discountPercentage": 15,
+            "rating": 4.7,
+            "stock": 28,
+            "thumbnail": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 126,
+            "title": "Amber Woods Eau de Parfum",
+            "mainCategory": "Beauty",
+            "category": "fragrances",
+            "brand": "The Skin Edit",
+            "description": "Amber Woods Eau de Parfum designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 920,
+            "discountPercentage": 10,
+            "rating": 4.8,
+            "stock": 86,
+            "thumbnail": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 127,
+            "title": "Fresh Citrus Fragrance",
+            "mainCategory": "Beauty",
+            "category": "fragrances",
+            "brand": "BareBloom",
+            "description": "Fresh Citrus Fragrance designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 4600,
+            "discountPercentage": 12,
+            "rating": 4.2,
+            "stock": 112,
+            "thumbnail": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 128,
+            "title": "Soft Floral Eau de Parfum",
+            "mainCategory": "Beauty",
+            "category": "fragrances",
+            "brand": "BareBloom",
+            "description": "Soft Floral Eau de Parfum designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 4510,
+            "discountPercentage": 12,
+            "rating": 3.8,
+            "stock": 11,
+            "thumbnail": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 129,
+            "title": "Ocean Mist Body Spray",
+            "mainCategory": "Beauty",
+            "category": "fragrances",
+            "brand": "The Skin Edit",
+            "description": "Ocean Mist Body Spray designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 1730,
+            "discountPercentage": 12,
+            "rating": 4.3,
+            "stock": 100,
+            "thumbnail": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 130,
+            "title": "Velvet Matte Lipstick Set",
+            "mainCategory": "Beauty",
+            "category": "beauty",
+            "brand": "DermaDaily",
+            "description": "Velvet Matte Lipstick Set designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 1690,
+            "discountPercentage": 15,
+            "rating": 4.1,
+            "stock": 106,
+            "thumbnail": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 131,
+            "title": "Everyday Makeup Kit",
+            "mainCategory": "Beauty",
+            "category": "beauty",
+            "brand": "BareBloom",
+            "description": "Everyday Makeup Kit designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 1500,
+            "discountPercentage": 25,
+            "rating": 4.1,
+            "stock": 87,
+            "thumbnail": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 132,
+            "title": "Soft Blend Brush Set",
+            "mainCategory": "Beauty",
+            "category": "beauty",
+            "brand": "Luxe Beauty",
+            "description": "Soft Blend Brush Set designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 4310,
+            "discountPercentage": 15,
+            "rating": 4.5,
+            "stock": 94,
+            "thumbnail": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 133,
+            "title": "Luminous Highlighter Palette",
+            "mainCategory": "Beauty",
+            "category": "beauty",
+            "brand": "Luxe Beauty",
+            "description": "Luminous Highlighter Palette designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 4610,
+            "discountPercentage": 12,
+            "rating": 4.2,
+            "stock": 89,
+            "thumbnail": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 134,
+            "title": "Longwear Mascara",
+            "mainCategory": "Beauty",
+            "category": "beauty",
+            "brand": "Luxe Beauty",
+            "description": "Longwear Mascara designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 310,
+            "discountPercentage": 5,
+            "rating": 4.0,
+            "stock": 109,
+            "thumbnail": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 135,
+            "title": "Hydrating Daily Moisturizer Plus 2",
+            "mainCategory": "Beauty",
+            "category": "skin-care",
+            "brand": "GlowLab",
+            "description": "Hydrating Daily Moisturizer Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 2890,
+            "discountPercentage": 25,
+            "rating": 4.9,
+            "stock": 8,
+            "thumbnail": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 136,
+            "title": "Vitamin C Glow Serum Plus 2",
+            "mainCategory": "Beauty",
+            "category": "skin-care",
+            "brand": "DermaDaily",
+            "description": "Vitamin C Glow Serum Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3050,
+            "discountPercentage": 12,
+            "rating": 4.3,
+            "stock": 34,
+            "thumbnail": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 137,
+            "title": "Gentle Foaming Cleanser Plus 2",
+            "mainCategory": "Beauty",
+            "category": "skin-care",
+            "brand": "The Skin Edit",
+            "description": "Gentle Foaming Cleanser Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 4270,
+            "discountPercentage": 15,
+            "rating": 4.0,
+            "stock": 29,
+            "thumbnail": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 138,
+            "title": "SPF 50 Daily Sunscreen Plus 2",
+            "mainCategory": "Beauty",
+            "category": "skin-care",
+            "brand": "GlowLab",
+            "description": "SPF 50 Daily Sunscreen Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 760,
+            "discountPercentage": 15,
+            "rating": 4.5,
+            "stock": 111,
+            "thumbnail": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 139,
+            "title": "Overnight Repair Cream Plus 2",
+            "mainCategory": "Beauty",
+            "category": "skin-care",
+            "brand": "BareBloom",
+            "description": "Overnight Repair Cream Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 1880,
+            "discountPercentage": 10,
+            "rating": 4.3,
+            "stock": 117,
+            "thumbnail": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 140,
+            "title": "Amber Woods Eau de Parfum Plus 2",
+            "mainCategory": "Beauty",
+            "category": "fragrances",
+            "brand": "GlowLab",
+            "description": "Amber Woods Eau de Parfum Plus 2 designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 1650,
+            "discountPercentage": 15,
+            "rating": 4.0,
+            "stock": 101,
+            "thumbnail": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 141,
+            "title": "Structured Everyday Tote",
+            "mainCategory": "Handbags",
+            "category": "womens-bags",
+            "brand": "Daily Edit",
+            "description": "Structured Everyday Tote designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 8590,
+            "discountPercentage": 25,
+            "rating": 4.2,
+            "stock": 109,
+            "thumbnail": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 142,
+            "title": "Minimal Crossbody Bag",
+            "mainCategory": "Handbags",
+            "category": "womens-bags",
+            "brand": "Daily Edit",
+            "description": "Minimal Crossbody Bag designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 4260,
+            "discountPercentage": 15,
+            "rating": 4.4,
+            "stock": 77,
+            "thumbnail": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 143,
+            "title": "Quilted Shoulder Bag",
+            "mainCategory": "Handbags",
+            "category": "womens-bags",
+            "brand": "CarryMuse",
+            "description": "Quilted Shoulder Bag designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 1840,
+            "discountPercentage": 30,
+            "rating": 4.5,
+            "stock": 92,
+            "thumbnail": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 144,
+            "title": "Compact Weekend Sling",
+            "mainCategory": "Handbags",
+            "category": "womens-bags",
+            "brand": "CarryMuse",
+            "description": "Compact Weekend Sling designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 6540,
+            "discountPercentage": 15,
+            "rating": 4.1,
+            "stock": 116,
+            "thumbnail": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 145,
+            "title": "Classic Top-Handle Bag",
+            "mainCategory": "Handbags",
+            "category": "womens-bags",
+            "brand": "CarryMuse",
+            "description": "Classic Top-Handle Bag designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 6700,
+            "discountPercentage": 30,
+            "rating": 4.8,
+            "stock": 118,
+            "thumbnail": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 146,
+            "title": "Roomy Travel Shopper",
+            "mainCategory": "Handbags",
+            "category": "womens-bags",
+            "brand": "LuxeLoop",
+            "description": "Roomy Travel Shopper designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 8220,
+            "discountPercentage": 25,
+            "rating": 4.4,
+            "stock": 62,
+            "thumbnail": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 147,
+            "title": "Everyday Mini Backpack",
+            "mainCategory": "Handbags",
+            "category": "womens-bags",
+            "brand": "ModeCarry",
+            "description": "Everyday Mini Backpack designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 1820,
+            "discountPercentage": 30,
+            "rating": 4.4,
+            "stock": 84,
+            "thumbnail": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 148,
+            "title": "Elegant Evening Clutch",
+            "mainCategory": "Handbags",
+            "category": "womens-bags",
+            "brand": "ModeCarry",
+            "description": "Elegant Evening Clutch designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 8380,
+            "discountPercentage": 12,
+            "rating": 4.5,
+            "stock": 76,
+            "thumbnail": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 149,
+            "title": "Soft Hobo Shoulder Bag",
+            "mainCategory": "Handbags",
+            "category": "womens-bags",
+            "brand": "LuxeLoop",
+            "description": "Soft Hobo Shoulder Bag designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 5530,
+            "discountPercentage": 15,
+            "rating": 4.0,
+            "stock": 48,
+            "thumbnail": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 150,
+            "title": "Modern Work Satchel",
+            "mainCategory": "Handbags",
+            "category": "womens-bags",
+            "brand": "CarryMuse",
+            "description": "Modern Work Satchel designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 7650,
+            "discountPercentage": 15,
+            "rating": 4.2,
+            "stock": 28,
+            "thumbnail": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 151,
+            "title": "Adjustable Training Dumbbells",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "Puma",
+            "description": "Adjustable Training Dumbbells designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 2990,
+            "discountPercentage": 12,
+            "rating": 4.8,
+            "stock": 74,
+            "thumbnail": "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 152,
+            "title": "Performance Yoga Mat",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "Puma",
+            "description": "Performance Yoga Mat designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 2900,
+            "discountPercentage": 25,
+            "rating": 3.9,
+            "stock": 112,
+            "thumbnail": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 153,
+            "title": "Insulated Sports Bottle",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "FlexGear",
+            "description": "Insulated Sports Bottle designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 720,
+            "discountPercentage": 30,
+            "rating": 4.6,
+            "stock": 45,
+            "thumbnail": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 154,
+            "title": "Resistance Band Set",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "Nike",
+            "description": "Resistance Band Set designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3450,
+            "discountPercentage": 5,
+            "rating": 3.9,
+            "stock": 77,
+            "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 155,
+            "title": "Smart Fitness Tracker",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "FitCore",
+            "description": "Smart Fitness Tracker designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 7890,
+            "discountPercentage": 10,
+            "rating": 4.1,
+            "stock": 55,
+            "thumbnail": "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 156,
+            "title": "Lightweight Training Gloves",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "Adidas",
+            "description": "Lightweight Training Gloves designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 7810,
+            "discountPercentage": 18,
+            "rating": 3.8,
+            "stock": 66,
+            "thumbnail": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 157,
+            "title": "Running Waist Pack",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "FitCore",
+            "description": "Running Waist Pack designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 3920,
+            "discountPercentage": 5,
+            "rating": 4.0,
+            "stock": 60,
+            "thumbnail": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 158,
+            "title": "Foam Recovery Roller",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "Puma",
+            "description": "Foam Recovery Roller designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 6820,
+            "discountPercentage": 30,
+            "rating": 4.0,
+            "stock": 16,
+            "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 159,
+            "title": "Speed Jump Rope",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "FitCore",
+            "description": "Speed Jump Rope designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 2020,
+            "discountPercentage": 5,
+            "rating": 4.9,
+            "stock": 11,
+            "thumbnail": "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 160,
+            "title": "Gym Duffel Bag",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "ActiveForm",
+            "description": "Gym Duffel Bag designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 7700,
+            "discountPercentage": 15,
+            "rating": 4.4,
+            "stock": 40,
+            "thumbnail": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 161,
+            "title": "Breathable Sports Cap",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "FlexGear",
+            "description": "Breathable Sports Cap designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 2070,
+            "discountPercentage": 10,
+            "rating": 4.3,
+            "stock": 9,
+            "thumbnail": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 162,
+            "title": "Compact Massage Ball",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "Adidas",
+            "description": "Compact Massage Ball designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 1160,
+            "discountPercentage": 18,
+            "rating": 4.1,
+            "stock": 105,
+            "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 163,
+            "title": "Workout Shaker Bottle",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "Adidas",
+            "description": "Workout Shaker Bottle designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 4240,
+            "discountPercentage": 30,
+            "rating": 4.0,
+            "stock": 29,
+            "thumbnail": "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 164,
+            "title": "Fitness Wrist Support",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "FlexGear",
+            "description": "Fitness Wrist Support designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 6540,
+            "discountPercentage": 20,
+            "rating": 4.8,
+            "stock": 71,
+            "thumbnail": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 165,
+            "title": "Training Knee Sleeves",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "ActiveForm",
+            "description": "Training Knee Sleeves designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 4390,
+            "discountPercentage": 5,
+            "rating": 4.2,
+            "stock": 77,
+            "thumbnail": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 166,
+            "title": "Agility Training Cones",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "FlexGear",
+            "description": "Agility Training Cones designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 4810,
+            "discountPercentage": 25,
+            "rating": 4.6,
+            "stock": 54,
+            "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 167,
+            "title": "Reflective Running Vest",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "FitCore",
+            "description": "Reflective Running Vest designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 5920,
+            "discountPercentage": 18,
+            "rating": 4.9,
+            "stock": 15,
+            "thumbnail": "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 168,
+            "title": "Grip Strength Trainer",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "FitCore",
+            "description": "Grip Strength Trainer designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 7430,
+            "discountPercentage": 20,
+            "rating": 3.9,
+            "stock": 110,
+            "thumbnail": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 169,
+            "title": "Pilates Ring",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "FlexGear",
+            "description": "Pilates Ring designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 2650,
+            "discountPercentage": 15,
+            "rating": 4.5,
+            "stock": 23,
+            "thumbnail": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85"
+            ]
+        },
+        {
+            "id": 170,
+            "title": "Sports Towel Set",
+            "mainCategory": "Sports & Fitness",
+            "category": "sports-accessories",
+            "brand": "Nike",
+            "description": "Sports Towel Set designed for everyday use, with a modern look, dependable quality and a comfortable user experience.",
+            "price": 800,
+            "discountPercentage": 10,
+            "rating": 4.0,
+            "stock": 25,
+            "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+            "images": [
+                "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+                "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=900&q=85"
+            ]
+        }
+    ]
+}
